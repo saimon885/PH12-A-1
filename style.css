@@ -242,3 +242,19 @@ input, textarea, ::placeholder{
     padding: 5px 8px;
 
 }
+/* footer st */
+footer{
+    text-align: center;
+    height: 428px;
+}
+footer .ft{
+    width: 531px;
+    height: 221px;
+    margin: 0 auto;
+}
+footer .info{
+    display: flex;
+    gap: 30px;
+    justify-content:center ;
+    align-items: center;
+}
