@@ -187,3 +187,14 @@ nav h1{
     background-color: #fff;
 }
 
+.hero h1{
+    font-size: 50px;
+    padding: 15px 0 0 0;
+}
+.hero p{
+    margin-top: -15px;
+}
+.hero .img{
+    margin-top: 22px;
+    border-radius: 48px;
+}
