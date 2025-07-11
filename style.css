@@ -246,15 +246,38 @@ input, textarea, ::placeholder{
 footer{
     text-align: center;
     height: 428px;
+    background-color: #fff;
 }
 footer .ft{
     width: 531px;
     height: 221px;
     margin: 0 auto;
 }
+footer .ft .fot-h1{
+    display: inline-block;
+    margin-top: 50px;
+    font-size:100px ;
+    font-weight: bold;
+    color: #4E47FF;
+}
+footer .ft .fot-p{
+    font-size: 20px;
+    color: #252432;
+    margin-top: -40px;
+
+}
+footer .ft{
+    margin-top: -30px;
+}
+footer .info p{
+    font-size: 20px;
+    color: #252432;
+    cursor: pointer;
+}
 footer .info{
     display: flex;
-    gap: 30px;
+    gap: 40px;
     justify-content:center ;
     align-items: center;
 }
+/* footer end */
